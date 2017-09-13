@@ -1,4 +1,4 @@
-baseurl = "http://www.risingvoices.us/"
+baseurl = "http://risingvoices.us/"
 publishDir = "docs"
 languageCode = "en-US"
 title = "Rising Voices Youth Choir"

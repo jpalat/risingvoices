@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.risingvoices.us/events/</loc>
+    <loc>http://risingvoices.us/events/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/projects/</loc>
+    <loc>http://risingvoices.us/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/videos/</loc>
+    <loc>http://risingvoices.us/videos/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/blog/creating-a-new-theme/</loc>
+    <loc>http://risingvoices.us/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/blog/goisforlovers/</loc>
+    <loc>http://risingvoices.us/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/blog/hugoisforlovers/</loc>
+    <loc>http://risingvoices.us/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/blog/migrate-from-jekyll/</loc>
+    <loc>http://risingvoices.us/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/blog/</loc>
+    <loc>http://risingvoices.us/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/</loc>
+    <loc>http://risingvoices.us/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/development/</loc>
+    <loc>http://risingvoices.us/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/development/</loc>
+    <loc>http://risingvoices.us/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/events/</loc>
+    <loc>http://risingvoices.us/tags/events/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/events/</loc>
+    <loc>http://risingvoices.us/categories/events/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/go/</loc>
+    <loc>http://risingvoices.us/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/golang/</loc>
+    <loc>http://risingvoices.us/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/golang/</loc>
+    <loc>http://risingvoices.us/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/hugo/</loc>
+    <loc>http://risingvoices.us/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/projects/</loc>
+    <loc>http://risingvoices.us/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/projects/</loc>
+    <loc>http://risingvoices.us/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/</loc>
+    <loc>http://risingvoices.us/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/</loc>
+    <loc>http://risingvoices.us/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/templates/</loc>
+    <loc>http://risingvoices.us/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/themes/</loc>
+    <loc>http://risingvoices.us/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/tags/videos/</loc>
+    <loc>http://risingvoices.us/tags/videos/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.risingvoices.us/categories/videos/</loc>
+    <loc>http://risingvoices.us/categories/videos/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>

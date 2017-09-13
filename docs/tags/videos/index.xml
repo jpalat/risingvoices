@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Rising Voices Youth Choir</title>
-    <link>http://www.risingvoices.us/tags/videos/</link>
+    <link>http://risingvoices.us/tags/videos/</link>
     <description>Recent content in Videos on Rising Voices Youth Choir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://www.risingvoices.us/tags/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://risingvoices.us/tags/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videos</title>
-      <link>http://www.risingvoices.us/videos/</link>
+      <link>http://risingvoices.us/videos/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://www.risingvoices.us/videos/</guid>
+      <guid>http://risingvoices.us/videos/</guid>
       <description></description>
     </item>
     
