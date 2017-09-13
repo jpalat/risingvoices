@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "http://www.risingvoices.us/"
 publishDir = "docs"
 languageCode = "en-US"
 title = "Rising Voices Youth Choir"
